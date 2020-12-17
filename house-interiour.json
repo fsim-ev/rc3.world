@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#houseStart"
+                 "value":"main.json#houseStart"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -126,7 +126,7 @@
         {
          "columns":15,
          "firstgid":1,
-         "image":"..\/tileset.png",
+         "image":"tileset.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
