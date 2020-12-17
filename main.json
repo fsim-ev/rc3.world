@@ -58,9 +58,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitLayer",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"house-interiour\/house-interiour.json#start"
+                 "value":"house-interiour.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
