@@ -171,8 +171,27 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":15,
          "firstgid":1,
-         "source":"tileset.json"
+         "image":"tileset.png",
+         "imageheight":4256,
+         "imagewidth":480,
+         "margin":0,
+         "name":"tileset",
+         "spacing":0,
+         "tilecount":1995,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":10,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
