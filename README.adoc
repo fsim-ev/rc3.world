@@ -1,0 +1,5 @@
+= rC3.world
+
+https://rc3.world/[rC3] world 2D-adventure map of the https://www.fsim-ev.de[Fachschaft Informatik Mathematik] of https://www.oth-regensburg.de[OTH Regensburg].
+
+To get to know more about rC3 maps and the setup of this project go check out https://howto.rc3.world/maps.html[rC3.world].
