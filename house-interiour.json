@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"teleporter.json#start"
+                 "value":"main.json#houseStart"
                 }],
          "type":"tilelayer",
          "visible":true,
