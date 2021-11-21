@@ -3,3 +3,17 @@
 https://rc3.world/[rC3] world 2D-adventure map of the https://www.fsim-ev.de[Fachschaft Informatik Mathematik] of https://www.oth-regensburg.de[OTH Regensburg].
 
 To get to know more about rC3 maps and the setup of this project go check out https://howto.rc3.world/maps.html[rC3.world].
+
+== Testing
+
+https://play.workadventu.re/_/global/raw.githubusercontent.com/fsim-ev/rc3.world/main/main.json[main (branch) on Workadventure Test Server]
+
+== Tools
+
+https://www.mapeditor.org/[Tiled: Map Editor]
+https://github.com/aseprite/aseprite/[Aseprite: Pixel Art Drawing Tool]
+
+== Assets
+
+https://kenney.nl/assets?q=2d[Kenney.nl 2D Assets]
+https://www.reddit.com/r/gameassets/[r/gameassets]
