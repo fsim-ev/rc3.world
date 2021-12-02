@@ -19,3 +19,5 @@ https://github.com/aseprite/aseprite/[Aseprite: Pixel Art Drawing Tool]
 https://kenney.nl/assets?q=2d[Kenney.nl 2D Assets]
 
 https://www.reddit.com/r/gameassets/[r/gameassets]
+
+https://git.cccv.de/rc3/world-map-starterkit/-/tree/master/[Starter Kit]
