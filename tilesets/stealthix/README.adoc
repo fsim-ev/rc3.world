@@ -1,0 +1,3 @@
+= Stealthix Assets
+https://stealthix.itch.io/32-x-32-dungeon-assets[Dungeon Assets]
+https://stealthix.itch.io/dungeon-tileset-32x32-px[Dungeon Tileset]
