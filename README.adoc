@@ -8,6 +8,8 @@ To get to know more about rC3 maps and the setup of this project go check out ht
 
 https://play.workadventu.re/_/global/raw.githubusercontent.com/fsim-ev/rc3.world/main/main.json[main (branch) on Workadventure Test Server]
 
+https://play.workadventu.re/_/global/raw.githubusercontent.com/fsim-ev/rc3.world/old-main/main.json[Old Main Map]
+
 == Tools
 
 https://www.mapeditor.org/[Tiled: Map Editor]
