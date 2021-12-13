@@ -10,6 +10,8 @@ https://play.workadventu.re/_/global/raw.githubusercontent.com/fsim-ev/rc3.world
 
 https://play.workadventu.re/_/global/raw.githubusercontent.com/fsim-ev/rc3.world/old-main/main.json[Old Main Map]
 
+https://play.workadventu.re/_/global/raw.githubusercontent.com/fsim-ev/rc3.world/im-layout/main.json[IM Layout]
+
 == Tools
 
 https://www.mapeditor.org/[Tiled: Map Editor]
