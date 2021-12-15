@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.6.0" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="32" tileheight="32" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="preview/terrain-map-v7.tsx"/>
+ <tileset firstgid="15745" name="jungle-ruins" tilewidth="32" tileheight="32" tilecount="1024" columns="32">
+  <image source="jungle-ruins.png" trans="ff00ff" width="1024" height="1024"/>
+  <wangsets>
+   <wangset name="jungle" type="corner" tile="-1">
+    <wangcolor name="brick-floor" color="#ff0000" tile="-1" probability="1"/>
+    <wangcolor name="ceiling" color="#00ff00" tile="-1" probability="1"/>
+    <wangtile tileid="705" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="706" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="708" wangid="0,1,0,0,0,1,0,1"/>
+    <wangtile tileid="709" wangid="0,1,0,1,0,0,0,1"/>
+    <wangtile tileid="733" wangid="0,0,0,0,0,0,0,2"/>
+    <wangtile tileid="734" wangid="0,2,0,0,0,0,0,0"/>
+    <wangtile tileid="737" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="738" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="740" wangid="0,0,0,1,0,1,0,1"/>
+    <wangtile tileid="741" wangid="0,1,0,1,0,1,0,0"/>
+    <wangtile tileid="765" wangid="0,0,0,0,0,2,0,0"/>
+    <wangtile tileid="766" wangid="0,0,0,2,0,0,0,0"/>
+    <wangtile tileid="768" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="769" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="770" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="771" wangid="0,0,0,1,0,0,0,0"/>
+    <wangtile tileid="772" wangid="0,0,0,1,0,1,0,0"/>
+    <wangtile tileid="773" wangid="0,0,0,0,0,1,0,0"/>
+    <wangtile tileid="796" wangid="0,2,0,0,0,2,0,2"/>
+    <wangtile tileid="797" wangid="0,2,0,0,0,0,0,2"/>
+    <wangtile tileid="798" wangid="0,2,0,2,0,0,0,2"/>
+    <wangtile tileid="800" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="801" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="802" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="803" wangid="0,1,0,1,0,0,0,0"/>
+    <wangtile tileid="804" wangid="0,1,0,1,0,1,0,1"/>
+    <wangtile tileid="805" wangid="0,0,0,0,0,1,0,1"/>
+    <wangtile tileid="828" wangid="0,0,0,0,0,2,0,2"/>
+    <wangtile tileid="829" wangid="0,2,0,2,0,2,0,2"/>
+    <wangtile tileid="830" wangid="0,2,0,2,0,0,0,0"/>
+    <wangtile tileid="832" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="833" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="834" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="835" wangid="0,1,0,0,0,0,0,0"/>
+    <wangtile tileid="836" wangid="0,1,0,0,0,0,0,1"/>
+    <wangtile tileid="837" wangid="0,0,0,0,0,0,0,1"/>
+    <wangtile tileid="860" wangid="0,0,0,2,0,2,0,2"/>
+    <wangtile tileid="861" wangid="0,0,0,2,0,2,0,0"/>
+    <wangtile tileid="862" wangid="0,2,0,2,0,2,0,0"/>
+    <wangtile tileid="867" wangid="0,1,0,0,0,1,0,0"/>
+    <wangtile tileid="868" wangid="0,0,0,1,0,0,0,1"/>
+    <wangtile tileid="899" wangid="0,1,0,1,0,1,0,1"/>
+   </wangset>
+  </wangsets>
+ </tileset>
+ <tileset firstgid="16769" name="glyphs-jungle" tilewidth="32" tileheight="32" tilecount="256" columns="16">
+  <image source="glyphs-jungle.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJyV1ktuwzAMBNDseh5La9//Wm2AGB28jORkISSWTXI4/M7z8RivM//Owbnux+v55/H/PEP2eX+87ryfIZvfXTqbvsm7S8+lI3UlNvE0zOlXysyCN+9T50Tv9d77lE9e1aVvg2cxjYXc9W3GIe3rp/7Jt7KNk8aLPiZ2/4/yrvme+dn8Tswtd8b5nl/m447zlsf5vvHf7GRsfCeXK1/H2W0mjzv8x/nuZ8ahcdH4zloTjz2k5ZQc7WzZnzJmyZP+T+zf5WGrwRafA9x3Z4A9uTb3xSK+9HvFz66mrPfWtz71q/X2PMm7+dd+d/Utn4nf2m88Ns7s7yu5XU7re+rIuOuvvbfhdoY1Hc5a/TB/nbmJRT6c/dpezf1djqYvrQd+elKPO0eL4wTfN/Z29Wm8Wn+QD2eOMWu7l7b0wRmnLm3be8Tk/Gy+2vdbP7vrU2JvsdXPlGm9xHw9wGaumH/5vfuWu1ir1V1+2Kec1+4Jci1O4+Z8Ud6Z0OzaW8Vor7dekuu2DynjvXZX+9SK71Vvb3H7tv6bD965h7Qdwp0gc32VY7vTakidmc+tblYz/G5HU3frA3LTZsWq3trsE3f6vYqNeZnPq57VMK/mWquTxGRNOrvk09xxZzC2qzlqz3/e/QIeQBPk
+  </data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlr9uE0EQxo9AQYcERNRAk9BAAaKKb7FlUwISCCpAQTFCBNGAoALi2I6QKPlXIfls8wQgaCJ0PhNegIIKKYki8QAI0cE3uhlusl7fXS6UWemnXe+e5/t2b3Zsz9tpO2377bbvec9SuONvX6NpPK9tkvEiOAgmwUrJ8/b54/mC9UNmfOwFrDVAi2lwfK1dB10Tj2/w+CQ4BaYz9ncC66dT9EOs1UCgmFWeSK/Pcz1QBhG4CC7l1L+M566keBhi7bNiACpgz5lYm3ryRefwluPcQ38/p/4DPPcwRV+/gwZD+ybNvkk8EKRPzz9n/akM/WO8/9cp+j1LR+vpOfKzYeJzuOXH+vPo76Ywz/v/mKLfUfqB0g7UnPQha79D/wK8BOfAeQcXeP2VY/+Uy3LectaCeCmbODe1H+Ip67/Pqf/Bsf+eSWLaZy7Msjd9/uLvK8fOo098s/TpHCXXZY8Ut2p97o8Z/wS/mDR9eea3pe/yQneOasuQPeh80HlgExj3+6MxnaHUzqxGupFJxhUVjzyU2VfZWsvyluUhRI0eMFEpnpO62zeJr6px+6o4NO2c7bI+1Q5d36mtQnONWS/Fd6JuNp8padPd175En97fwCT5ZPc1PoOW2VxD/+0fnyf80XrjqosuX1lN5xc9H6nYbZP8ptp5H5rR3wF9TwPHXtKazi/53XPli/4sd8G+g1p/PziwBR/aj35XQ5O8ryqPyW/H4UvWNwro5vG1khGX6uecGc3lvO0xvvfd4o8/Oueaf2SS9yL3aqvtE763MIMcZBbBdcytol9TrPN8FfeyBs6CZdakHJJ8KqLfQeyA6YInmNuF+BOK3aV4fg59HdxU+vp/aRH9EJoDJgJNcBjxjyiOgh+Yb6FvgyVr/5R/DctH0zHn0rfvVA86k378n+4498TeUvyZoPVlFVdqBOWi1CmqUVJn0vT1fSL94cyoNo2nlP60pU9N3+MBj7Puj9aXeiIaWl/7cO2/aLuGGG8KcvU/6P8FTmqyXA==
+  </data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzllktPFEEQx1s9aWLABKNXXgmS4K4JBi9sN3oQPQiIBK7iwVf0AJgl8YZRfOBNWI0nHh8BghyXhW+AwaO4ejRiIurRf2Vq2J7emamVuGOilfzTW/2oX3VPzfYo9e/Zba3UFHRHJ8utM0odhVrArYFaoWPwj5v4dfmMUqtQQXutrS30feL+QiY+Tjs4p5mfYn4H/DMCfwtxP0BF7bXD3Pry/aLAvwLOAPMvGY8/iHZI4O/DvP2WDpigv9svPM8xrLvH/LvMz6IdF/hNmNfuxG7Q5WoW+C/AmTbB88/BfynwuzHvArSO8z2rS5q1eMRvFPiL4CxBPVAv1ActQ28E/g3Evam95zvMv6nNQ3O6xJf2vwHOjMMn/53Af4y4T/j5TjhqMCV+1P7f8pxvaL87fPJ/8vimkMf5mP3F7X/HBHNLwU9DpyxePcZ/GO9co+x6zFhHxP79vUu1Uc/jm04O9F/5nP1Jq39BB2uRdM4an+DfO7/BH+cz8J8tWVPEujWrDv2avBYy9xXiDVXwbhB/MGTOM74rpqxzaEbMj1YNNnLOD0LWr2AsWyE/W6X7KMd8qrkoET+X8H1YLTuogzqU8L5O6KBa/xCf7oEC3wUXY2L690WLwK/tUupIV+V8ugeK/K7dsmK+z5SL5nTH5Ersy0apflN5Drv3ANY8Ffg07yp038mVjP7TthFjBBqFvprqfAtSvq91MFeyk9rbey+LziCdYI0Sf8TijybM9+vCVlw9R9nnTqW+dJb3b4f02fYQ448cTQprwuww6qwm5Ju3VvgOngVrztH8Hvht4KRCWGmBnwdr1VFhD/z/1ebN384gOfsFqzvOfQ==
+  </data>
+ </layer>
+ <layer id="4" name="Tile Layer 4" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxFMtGVgmGxLP/uUHFH5a4F2r7fFLU9rcBZo93ki/c9HpNuEaeAHkN38RJor5EjYDeb2pNv9wQFVXBFqhjKaWR8dCLshHKqHUHwj241sv6Ijqv2KSOaA7MflBmcovxyq14mA/ch26yGpdUSzH9kcY0dUNyCDRCh/OlRvEgH7ke3WR1KLri8RiW/kiOoGSgA2u4kByG4gB8Dikxy70d0AAiuB7ngHxO9xuEcZqk4FSifTuRwaBQMPOIB5khMJ0xtoAO3URML0Bt/tGBhC7RF0KBY3KFIhX0QBzY22R9AwACuTYXSGPaR+6IHWzyA6hYb5ElYmw+gOaLm+AWr/Bjq2k2AAVM5fgNp7YQDsH25gKTA8VwLxKqR0tBjIXo0lXa0nkNYmQOPjHzC//LdDFcMFtgLNPAbEt5DMPgxk78Zi13kC9sPSoxwwncrbo4rhAkeBZu5BM/cykH8bi133CdhvAPWzHdBue3tUsVEwCpABAOfAY7E=
+  </data>
+ </layer>
+ <layer id="5" name="Tile Layer 5" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgxFMdmRgmO04cPZvBtq9ewDtvwy0+zaa/bpAvoP9wLgHBHyB9ieQaD+p6gn5j9b2E1I/mO3XwpJe6Wm/Fxb7G4Dqs0jIR+Tav4aAHUuIdAO59u8hYP4WKpUluOw/Q8D8I0TYjy39oIMGHPbfIaD3ChFmY0s/pABc6Sx3AMvxUTB8wXxHBE3PehmWT/cj0aSW85QAWD69j0TjKhfoDczxuAOfHLVAOB478MmhA1zxSSiey6HyyH6FscvpYP90qDyyX2Hs6XSwHwaQ/UqKv6llP7JfSfE3DODKT4Mlnw0XAACiyzl5
+  </data>
+ </layer>
+</map>

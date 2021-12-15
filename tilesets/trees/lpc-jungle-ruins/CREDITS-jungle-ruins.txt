@@ -1,0 +1,15 @@
+"[LPC] Jungle Ruins" by bluecarrot16. Commissioned by Pierre Vigier (pvigier). Licenses: OGA-BY 3.0+, CC-BY 3.0+, GPL 2.0+. http://opengameart.org/content/lpc-jungle-ruins
+
+
+Ruined buildings---an ancient city, forgotten temple, or forboding dungeon---in the style of the Liberated Pixel Cup. Loosely inspired by various architectural styles, primarily Maya and Aztec, with elements from Hindu architecture.
+
+Many types of structures can be built with these modular tiles. Check out the Tiled map "jungle-ruins-preview.tmx" to see how the preview image was constructed. Some tips:
+- The wall tiles at the top of the image are intended for interiors, but you can use them for exterior buildings too. Pieces in the top-right can be used to transition between the different styles of wall
+- Add the slabs in the top-middle over top of any walls in order to make space for glyphs or add decoration
+- Ceiling trim (right side) uses the same layout as https://opengameart.org/content/lpc-walls
+- Pyramids work best when the height is a multiple of two. This applies to both the smooth-walled pyramids and the stairstep pyramids (see building in the bottom-right of the preview)
+- Statues are modular--freely combine different heads and sitting or standing bodies, or just have the heads hanging on the walls.
+
+See also companion piece: http://opengameart.org/content/lpc-desert-ruins
+
+Preview image includes tiles from the LPC base assets by Sharm, CC-BY 3.0, GPL 3.0; <https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles>
