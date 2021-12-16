@@ -86,6 +86,17 @@
  "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"audioLoop",
+         "type":"bool",
+         "value":true
+        }, 
+        {
+         "name":"playAudio",
+         "type":"string",
+         "value":"Audio\/winter.mp3"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
