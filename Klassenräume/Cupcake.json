@@ -76,7 +76,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"Audui\/cupcake.mp3"
                 }],
          "type":"objectgroup",
          "visible":true,
