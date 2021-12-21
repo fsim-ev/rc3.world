@@ -82,7 +82,7 @@
         {
          "columns":23,
          "firstgid":1,
-         "image":"..\/..\/..\/zwischenablage\/boden_hell.png",
+         "image":"..\/tilesets\/regenbogen\/boden_hell.png",
          "imageheight":448,
          "imagewidth":766,
          "margin":0,
@@ -131,7 +131,7 @@
         {
          "columns":1,
          "firstgid":2640,
-         "image":"..\/..\/..\/zwischenablage\/schmetterling1.png",
+         "image":"..\/tilesets\/regenbogen\/schmetterling1.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
