@@ -101,7 +101,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/main.json#krankenhausExit"
+                 "value":"..\/main.json#krankenhausExit"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -77,7 +77,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/main.json#winterExit"
+                 "value":"..\/main.json#winterExit"
                 }],
          "type":"tilelayer",
          "visible":true,

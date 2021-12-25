@@ -89,7 +89,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/main.json#farmExit"
+                 "value":"..\/main.json#farmExit"
                 }],
          "type":"tilelayer",
          "visible":true,

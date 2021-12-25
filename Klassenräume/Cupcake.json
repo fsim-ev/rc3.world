@@ -100,7 +100,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/main.json#cupcakeExit"
+                 "value":"..\/main.json#cupcakeExit"
                 }],
          "type":"tilelayer",
          "visible":true,
