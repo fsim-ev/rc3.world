@@ -166,17 +166,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
          "firstgid":1604,
-         "image":"..\/tilesets\/trees\/lpc-jungle-ruins\/preview\/terrain-map-v7.png",
-         "imageheight":31488,
-         "imagewidth":512,
-         "margin":0,
-         "name":"terrain-map-v7",
-         "spacing":0,
-         "tilecount":15744,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"..\/tilesets\/Tilesets\/terrain-map-v7.tsx"
         }, 
         {
          "columns":15,
@@ -209,12 +200,75 @@
                         }]
                 }, 
                 {
+                 "id":1620,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1621,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":1622,
                  "properties":[
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1623,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1635,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1636,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1637,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1638,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
                         }]
                 }, 
                 {
@@ -223,7 +277,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }, 
                 {
@@ -232,7 +286,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }],
          "tilewidth":32
