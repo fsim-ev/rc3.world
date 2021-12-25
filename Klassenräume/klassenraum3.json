@@ -8,6 +8,17 @@
          "id":1,
          "name":"Boden ",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"Audio\/mittelalter.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":24,
