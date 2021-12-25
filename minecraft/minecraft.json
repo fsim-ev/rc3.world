@@ -183,6 +183,12 @@
  "nextlayerid":13,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"All Rights Reserved"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -195,6 +201,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"minecraft_custom",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"All Rights Reserved"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
