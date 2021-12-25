@@ -8,6 +8,12 @@
          "id":2,
          "name":"Boden ",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"Audio\/farm.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":24,
