@@ -278,6 +278,12 @@
          "id":22,
          "name":"schlicht_holzEntrance",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"Klassenr\u00e4ume\/schlicht_holz.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
@@ -290,6 +296,12 @@
          "id":23,
          "name":"schlicht_holzExit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":120,
