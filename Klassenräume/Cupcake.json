@@ -61,12 +61,6 @@
          "id":4,
          "name":"tische ",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":24,
@@ -141,15 +135,19 @@
          "imagewidth":247,
          "margin":0,
          "name":"elena pixel cupcake[1382]",
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":11,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -160,6 +158,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,
@@ -315,12 +319,6 @@
          "imagewidth":32,
          "margin":0,
          "name":"torte2",
-         "properties":[
-                {
-                 "name":"collides",
-                 "type":"bool",
-                 "value":true
-                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -331,7 +329,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }]
                 }],
          "tilewidth":32
