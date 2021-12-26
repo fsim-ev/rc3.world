@@ -220,6 +220,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"boden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
