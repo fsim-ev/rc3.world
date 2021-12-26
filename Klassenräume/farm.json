@@ -362,19 +362,6 @@
                         }]
                 }],
          "tilewidth":32
-        }, 
-        {
-         "columns":6,
-         "firstgid":1996,
-         "image":"..\/tilesets\/trees\/tileset bosque.png",
-         "imageheight":192,
-         "imagewidth":192,
-         "margin":0,
-         "name":"tileset bosque",
-         "spacing":0,
-         "tilecount":36,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
