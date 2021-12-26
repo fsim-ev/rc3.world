@@ -165,6 +165,15 @@
          "tileheight":32,
          "tiles":[
                 {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"CCO"
+                        }]
+                }, 
+                {
                  "id":1702,
                  "properties":[
                         {
