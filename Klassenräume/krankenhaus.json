@@ -33,7 +33,7 @@
                  "value":true
                 }, 
                 {
-                 "name":"playAudio ",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"Audio\/krankenhaus.mp3"
                 }],
