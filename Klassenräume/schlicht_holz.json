@@ -135,6 +135,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"cija_32x32_expansion for Pipoya_CC0",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":1995,
          "tileheight":32,

@@ -2268,6 +2268,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -2281,6 +2287,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -2294,6 +2306,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -2307,6 +2325,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"testing_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":288,
          "tileheight":32,
@@ -2320,6 +2344,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"airport_set",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":36,
          "tileheight":32,
@@ -2333,6 +2363,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"boden2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -2347,6 +2383,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"snowWIP",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
