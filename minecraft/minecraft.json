@@ -302,6 +302,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"All Rights Reserved"
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
