@@ -135,6 +135,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"elena pixel cupcake[1382]",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -237,6 +243,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"boden2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -250,6 +262,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"cupcake Kirsche",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -273,6 +291,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"gr\u00fcner cupcake Kirsche",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -296,6 +320,12 @@
          "imagewidth":247,
          "margin":0,
          "name":"regenbogen Boden",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":28,
          "tileheight":32,
@@ -319,6 +349,12 @@
          "imagewidth":32,
          "margin":0,
          "name":"torte2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CCO"
+                }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
