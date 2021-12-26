@@ -121,7 +121,7 @@
          "name":"Kachelebene 4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":24,
          "x":0,
          "y":0
@@ -174,7 +174,7 @@
                         }]
                 }, 
                 {
-                 "id":1702,
+                 "id":1717,
                  "properties":[
                         {
                          "name":"collides",
@@ -183,7 +183,7 @@
                         }]
                 }, 
                 {
-                 "id":1717,
+                 "id":1747,
                  "properties":[
                         {
                          "name":"collides",
