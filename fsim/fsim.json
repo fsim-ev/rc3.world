@@ -593,6 +593,11 @@
                  "id":48,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CCO"
@@ -601,6 +606,11 @@
                 {
                  "id":49,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -752,12 +762,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -766,12 +771,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -787,6 +787,11 @@
                  "id":64,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CCO"
@@ -795,6 +800,11 @@
                 {
                  "id":65,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -946,12 +956,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -960,12 +965,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -981,6 +981,11 @@
                  "id":80,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CCO"
@@ -989,6 +994,11 @@
                 {
                  "id":81,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -1140,12 +1150,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -1154,12 +1159,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -1175,6 +1175,11 @@
                  "id":96,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CCO"
@@ -1183,6 +1188,11 @@
                 {
                  "id":97,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -1319,12 +1329,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -1333,12 +1338,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -1354,6 +1354,11 @@
                  "id":112,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CCO"
@@ -1362,6 +1367,11 @@
                 {
                  "id":113,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
@@ -1483,12 +1493,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -1497,12 +1502,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"CCO"
+                         "value":true
                         }]
                 }, 
                 {
@@ -1518,6 +1518,11 @@
                  "id":128,
                  "properties":[
                         {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"tilesetCopyright",
                          "type":"string",
                          "value":"CCO"
@@ -1526,6 +1531,11 @@
                 {
                  "id":129,
                  "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }, 
                         {
                          "name":"tilesetCopyright",
                          "type":"string",
