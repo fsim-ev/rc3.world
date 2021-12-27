@@ -100,7 +100,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Audio\/gla\u00dfschrank2.mp3"
+                 "value":"Audio\/klirren.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

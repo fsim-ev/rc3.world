@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"klassenzimmer\/cupcake.json"
+                 "value":"klassenzimmer\/Cupcake.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -246,7 +246,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"klassenzimmer\/burg.json"
+                 "value":"klassenzimmer\/Burg.json"
                 }],
          "type":"tilelayer",
          "visible":true,
