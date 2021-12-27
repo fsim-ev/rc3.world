@@ -53,7 +53,7 @@
                 {
                  "name":"audioLoop",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"playAudio",
